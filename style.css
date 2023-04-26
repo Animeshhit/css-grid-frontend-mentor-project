@@ -107,7 +107,7 @@ body {
   background: var(--primary-modrate-violet);
   background-image: url("./images/bg-pattern-quotation.svg");
   background-repeat: no-repeat;
-  background-position:  80% 0;
+  background-position: 80% 0;
 }
 
 .profile-first img {
@@ -157,5 +157,11 @@ body {
   #box-5 {
     grid-row: unset;
     grid-column: unset;
+  }
+}
+
+@media (max-width: 600px) {
+  #box-1 {
+    background-position: 90% 0;
   }
 }
