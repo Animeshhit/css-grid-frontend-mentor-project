@@ -164,4 +164,16 @@ body {
   #box-1 {
     background-position: 90% 0;
   }
+  .profile-info h2 {
+    font-size: 0.9rem !important;
+  }
+  .profile-info p {
+    font-size: 0.7rem !important;
+  }
+  .box > h1 {
+    font-size: 1.2rem;
+  }
+  .box > p {
+    font-size: 0.9rem;
+  }
 }
