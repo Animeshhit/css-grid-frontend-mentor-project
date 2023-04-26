@@ -105,6 +105,9 @@ body {
 #box-1 {
   grid-column: 1 / 3;
   background: var(--primary-modrate-violet);
+  background-image: url("./images/bg-pattern-quotation.svg");
+  background-repeat: no-repeat;
+  background-position:  80% 0;
 }
 
 .profile-first img {
